@@ -1,3 +1,4 @@
+## Hi there 👋
 I am a Computer Science and Information Systems student at Warsaw University of Technology.
 
 ## About me
