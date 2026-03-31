@@ -28,6 +28,8 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 🎮 Computer & board games  
 🌍 Travelling  
 
+---
+
 ## 💼 Contact
 - Email: bienkowskamagdalena21@gmail.com
 <!--
