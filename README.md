@@ -1,4 +1,3 @@
-## Hi there 👋
 I am a Computer Science and Information Systems student at Warsaw University of Technology.
 
 🎓 Currently developing skills in C, C++, C# and SQL  
