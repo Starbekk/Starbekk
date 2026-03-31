@@ -2,7 +2,7 @@
 I am a Computer Science and Information Systems student at Warsaw University of Technology.
 
 ## About me
-🎓 Currently developing skills in **C, C++, C# and SQL**  
+🎓 Currently developing my skills in **C, C++, C# and SQL**  
 🚀 Passionate about **problem solving, algorithms and software development**  
 
 ---
@@ -14,9 +14,9 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 - C++
 - C#
 - Python (basics)
-- Matlab
+- MATLAB
 - SQL
-- Linux/Unix
+- Linux / Unix
 - Git
 
 ### ⚙️ Environment
