@@ -5,8 +5,20 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 🚀 Passionate about problem solving, algorithms and programming
 
 ## 🛠️ Tech Stack
-### 🖥️ Programming languages & Tools: C, C++, C#, Python (basics), Matlab, SQL, Linux/Unix
-### ⚙️ Environment: Visual Studio, Visual Studio Code, PyCharm
+
+### 🖥️ Programming languages & Tools
+-C
+-C++
+-C#
+-Python (basics)
+-Matlab
+-SQL
+-Linux/Unix
+
+### ⚙️ Environment
+-Visual Studio
+-Visual Studio Code
+-PyCharm
 
 ## 🎯 Interests
 🧠 Artificial Intelligence
