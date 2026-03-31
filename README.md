@@ -5,8 +5,6 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 🎓 Currently developing my skills in **C, C++, C# and SQL**  
 🚀 Passionate about **problem solving, algorithms and software development**  
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🖥️ Programming Languages & Tools
