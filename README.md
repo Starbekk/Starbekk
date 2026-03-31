@@ -1,5 +1,6 @@
 I am a Computer Science and Information Systems student at Warsaw University of Technology.
 
+## About me
 🎓 Currently developing skills in C, C++, C# and SQL  
 🚀 Passionate about problem solving, algorithms and programming  
 
