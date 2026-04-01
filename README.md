@@ -28,7 +28,7 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 🌍 Travelling  
 
 ## 💼 Contact
-- Email: bienkowskamagdalena21@gmail.com
+- Email: magdalenabienkowska21@gmail.com
 <!--
 **Starbekk/Starbekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
