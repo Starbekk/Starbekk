@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a Computer Science student at Warsaw University of Technology, Faculty of Mathematics and Information Science.
+I am a Computer Science and Information Systems student at Warsaw University of Technology, Faculty of Mathematics and Information Science.
 
 ## About me
 🎓 Currently developing my skills in **C, C++, C# and SQL**  
