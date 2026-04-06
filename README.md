@@ -14,7 +14,7 @@ I am a Computer Science and Information Systems student at Warsaw University of 
 - Python (basics)
 - MATLAB
 - SQL
-- Linux / Unix
+- Linux
 - Git
 
 ### ⚙️ Environment
